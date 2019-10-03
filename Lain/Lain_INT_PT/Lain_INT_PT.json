@@ -34,37 +34,33 @@
         "ImageIndex": 1,
         "ImagesCount": 10
       }
+    },
+    "DelimiterImage": {
+      "X": 58,
+      "Y": 22,
+      "ImageIndex": 65
     }
   },
   "Date": {
     "MonthAndDay": {
-      "Separate": {
-        "Month": {
-          "TopLeftX": 86,
+      "OneLine": {
+        "Number": {
+          "TopLeftX": 66,
           "TopLeftY": 62,
-          "BottomRightX": 64,
-          "BottomRightY": 70,
-          "Alignment": "TopRight",
-          "Spacing": 1,
+          "BottomRightX": 0,
+          "BottomRightY": 0,
+          "Alignment": "TopLeft",
+          "Spacing": 0,
           "ImageIndex": 11,
           "ImagesCount": 10
         },
-        "Day": {
-          "TopLeftX": 52,
-          "TopLeftY": 62,
-          "BottomRightX": 96,
-          "BottomRightY": 70,
-          "Alignment": "TopLeft",
-          "Spacing": 1,
-          "ImageIndex": 11,
-          "ImagesCount": 10
-        }
+        "DelimiterImageIndex": 66
       },
       "TwoDigitsMonth": true,
       "TwoDigitsDay": true
     },
     "WeekDay": {
-      "X": 18,
+      "X": 11,
       "Y": 64,
       "ImageIndex": 44,
       "ImagesCount": 21
@@ -79,7 +75,7 @@
         "Alignment": 0,
         "Order": 0
       },
-      "ImageIndexOn": 65
+      "ImageIndexOn": 67
     },
     "Lock": {
       "Coordinates": {
@@ -89,7 +85,7 @@
         "Alignment": 0,
         "Order": 0
       },
-      "ImageIndexOn": 66
+      "ImageIndexOn": 68
     },
     "Bluetooth": {
       "Coordinates": {
@@ -99,7 +95,7 @@
         "Alignment": 0,
         "Order": 0
       },
-      "ImageIndexOn": 67
+      "ImageIndexOn": 69
     },
     "Battery": {
       "BatteryConfig": {
@@ -125,7 +121,7 @@
         "x3": 0
       },
       "Speed": 6,
-      "RepeatCount": 100
+      "RepeatCount": 8
     }
   }
 }

@@ -38,27 +38,18 @@
   },
   "Date": {
     "MonthAndDay": {
-      "Separate": {
-        "Month": {
-          "TopLeftX": 63,
+      "OneLine": {
+        "Number": {
+          "TopLeftX": 18,
           "TopLeftY": 210,
-          "BottomRightX": 120,
-          "BottomRightY": 240,
+          "BottomRightX": 0,
+          "BottomRightY": 0,
           "Alignment": "TopLeft",
-          "Spacing": 2,
+          "Spacing": 0,
           "ImageIndex": 11,
           "ImagesCount": 10
         },
-        "Day": {
-          "TopLeftX": 0,
-          "TopLeftY": 210,
-          "BottomRightX": 56,
-          "BottomRightY": 240,
-          "Alignment": "TopRight",
-          "Spacing": 2,
-          "ImageIndex": 11,
-          "ImagesCount": 10
-        }
+        "DelimiterImageIndex": 51
       },
       "TwoDigitsMonth": true,
       "TwoDigitsDay": true
@@ -79,7 +70,7 @@
         "Alignment": 0,
         "Order": 0
       },
-      "ImageIndexOn": 51
+      "ImageIndexOn": 52
     },
     "Lock": {
       "Coordinates": {
@@ -89,7 +80,7 @@
         "Alignment": 0,
         "Order": 0
       },
-      "ImageIndexOn": 52
+      "ImageIndexOn": 53
     },
     "Bluetooth": {
       "Coordinates": {
@@ -99,7 +90,7 @@
         "Alignment": 0,
         "Order": 0
       },
-      "ImageIndexOn": 53
+      "ImageIndexOn": 54
     },
     "Battery": {
       "BatteryConfig": {
