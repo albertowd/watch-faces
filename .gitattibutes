@@ -1,1 +1,4 @@
-**.* - everything
+*.* eol=lf
+*.gif binary
+*.png binary
+*.psd binary
