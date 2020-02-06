@@ -8,6 +8,7 @@
 
 [![Alberto face](./MiBand4/resources/animations/Alberto_INT_EN_packed_animated.gif)](https://amazfitwatchfaces.com/mi-band-4/view/7277)
 [![Compounds face](./MiBand4/resources/animations/Compounds_INT_EN_packed_animated.gif)](https://amazfitwatchfaces.com/mi-band-4/view/7460)
+[![Cyber Heart face](./MiBand4/resources/animations/Cyber_Heart_INT_EN_packed_animated.gif)](https://amazfitwatchfaces.com/mi-band-4/view/12633)
 ![Hack face](./MiBand4/resources/animations/Hack_INT_EN_packed_animated.gif)
 [![Lain face](./MiBand4/resources/animations/Lain_INT_EN_packed_animated.gif)](https://amazfitwatchfaces.com/mi-band-4/view/7357)
 [![Panic face](./MiBand4/resources/animations/Panic_INT_EN_packed_animated.gif)](https://amazfitwatchfaces.com/mi-band-4/view/12751)
