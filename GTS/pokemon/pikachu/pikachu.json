@@ -1,0 +1,225 @@
+{
+  "Activity": {
+    "Distance": {
+      "Number": {
+        "Alignment": "Right",
+        "BottomRightX": 328,
+        "BottomRightY": 355,
+        "ImageIndex": 0,
+        "ImagesCount": 10,
+        "Spacing": 0,
+        "TopLeftX": 188,
+        "TopLeftY": 329
+      },
+      "DecimalPointImageIndex": 10,
+      "SuffixImageIndex": 11
+    },
+    "NoDataImageIndex": 12,
+    "Steps": {
+      "Step": {
+        "Alignment": "Right",
+        "BottomRightX": 328,
+        "BottomRightY": 324,
+        "ImageIndex": 0,
+        "ImagesCount": 10,
+        "Spacing": 0,
+        "TopLeftX": 188,
+        "TopLeftY": 298
+      }
+    }
+  },
+  "Unknown11": {
+    "Unknown11_2": {
+      "Unknown11d2p1": {
+        "ImageIndex": 13,
+        "ImagesCount": 5,
+        "X": 124,
+        "Y": 171
+      },
+      "Unknown11d2p2": 199,
+      "Unknown11d2p3": 0,
+      "Unknown11d2p4": 0,
+      "Unknown11d2p5": 0
+    }
+  },
+  "Background": {
+    "Image": {
+      "ImageIndex": 18,
+      "X": 0,
+      "Y": 0
+    },
+    "Preview": {
+      "ImageIndex": 49,
+      "X": 0,
+      "Y": 0
+    }
+  },
+  "Battery": {
+    "Percent": {
+      "ImageIndex": 19,
+      "X": 308,
+      "Y": 20
+    },
+    "Text": {
+      "Alignment": "Right",
+      "BottomRightX": 308,
+      "BottomRightY": 46,
+      "ImageIndex": 0,
+      "ImagesCount": 10,
+      "Spacing": 0,
+      "TopLeftX": 248,
+      "TopLeftY": 20
+    }
+  },
+  "Date": {
+    "MonthAndDay": {
+      "Separate": {
+        "MonthName": {
+          "ImageIndex": 20,
+          "ImagesCount": 12,
+          "X": 40,
+          "Y": 160
+        },
+        "Day": {
+          "Alignment": "Center",
+          "BottomRightX": 100,
+          "BottomRightY": 226,
+          "ImageIndex": 0,
+          "ImagesCount": 10,
+          "Spacing": 0,
+          "TopLeftX": 60,
+          "TopLeftY": 200
+        }
+      },
+      "TwoDigitsDay": true,
+      "TwoDigitsMonth": true
+    },
+    "Year": {
+      "OneLine": {
+        "Number": {
+          "Alignment": "Center",
+          "BottomRightX": 100,
+          "BottomRightY": 146,
+          "ImageIndex": 0,
+          "ImagesCount": 10,
+          "Spacing": 0,
+          "TopLeftX": 20,
+          "TopLeftY": 120
+        }
+      }
+    }
+  },
+  "Shortcuts": {
+    "Pulse": {
+      "Element": {
+        "Height": 50,
+        "TopLeftX": 46,
+        "TopLeftY": 372,
+        "Width": 50
+      }
+    },
+    "State": {
+      "Element": {
+        "Height": 50,
+        "TopLeftX": 149,
+        "TopLeftY": 372,
+        "Width": 50
+      }
+    },
+    "Weather": {
+      "Element": {
+        "Height": 50,
+        "TopLeftX": 252,
+        "TopLeftY": 372,
+        "Width": 50
+      }
+    }
+  },
+  "Status": {
+    "Alarm": {
+      "Coordinates": {
+        "X": 25,
+        "Y": 15
+      },
+      "ImageIndexOn": 32
+    },
+    "Bluetooth": {
+      "Coordinates": {
+        "X": 60,
+        "Y": 15
+      },
+      "ImageIndexOn": 33
+    },
+    "DoNotDisturb": {
+      "Coordinates": {
+        "X": 95,
+        "Y": 15
+      },
+      "ImageIndexOn": 34
+    },
+    "Lock": {
+      "Coordinates": {
+        "X": 130,
+        "Y": 15
+      },
+      "ImageIndexOn": 35
+    }
+  },
+  "Time": {
+    "AmPm": {
+      "X": 292,
+      "Y": 105,
+      "ImageIndexAMCN": 36,
+      "ImageIndexAMEN": 36,
+      "ImageIndexPMCN": 37,
+      "ImageIndexPMEN": 37
+    },
+    "Delimiter": {
+      "ImageIndex": 38,
+      "X": 90,
+      "Y": 50
+    },
+    "Hours": {
+      "Ones": {
+        "ImagesCount": 10,
+        "ImageIndex": 39,
+        "X": 48,
+        "Y": 50
+      },
+      "Tens": {
+        "ImagesCount": 10,
+        "ImageIndex": 39,
+        "X": 6,
+        "Y": 50
+      }
+    },
+    "Minutes": {
+      "Ones": {
+        "ImagesCount": 10,
+        "ImageIndex": 39,
+        "X": 174,
+        "Y": 50
+      },
+      "Tens": {
+        "ImagesCount": 10,
+        "ImageIndex": 39,
+        "X": 132,
+        "Y": 50
+      }
+    },
+    "Seconds": {
+      "Ones": {
+        "ImagesCount": 10,
+        "ImageIndex": 39,
+        "X": 300,
+        "Y": 50
+      },
+      "Tens": {
+        "ImagesCount": 10,
+        "ImageIndex": 39,
+        "X": 258,
+        "Y": 50
+      }
+    }
+  }
+}
